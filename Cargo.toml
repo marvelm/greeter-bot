@@ -1,0 +1,4 @@
+[package]
+name = "greeter-bot"
+version = "0.1.0"
+authors = ["m <m@marvelmathew.ca>"]
