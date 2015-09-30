@@ -2,3 +2,6 @@
 name = "greeter-bot"
 version = "0.1.0"
 authors = ["m <m@marvelmathew.ca>"]
+
+[dependencies]
+irc = "0.9.0"
